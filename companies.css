@@ -1,0 +1,20 @@
+h1 {
+  font-family: 'Josefin Sans';
+  font-size: 55px;
+  color: brown
+ }
+
+a {
+  font-family: 'Varela Round';
+  font-size: 22px;
+  border-radius: 10px;
+  border: 2px solid antiquewhite;
+  background-color: indianred;
+  color: antiquewhite;
+  margin: 30px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 10%;
+  padding-left: 10%;
+
+}
