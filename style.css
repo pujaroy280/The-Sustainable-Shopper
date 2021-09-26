@@ -1,0 +1,110 @@
+a{
+  text-decoration: none;
+  font-family: 'Varela Round';
+  font-size: 20px;
+  color: white;
+  padding: 10px 16px;
+  background-color: rgb(88, 148, 88);
+  text-align: center;
+  margin: 15px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+body {
+background-color: navajowhite;
+}
+
+.home:hover
+.contain {
+  display: block;
+}
+
+.nav-bar a:hover {
+ background-color: darkred;
+ color:azure;
+}
+.container1{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding: 12px;
+    margin-left: 20px;
+}
+.container2{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding: 12px;
+    margin-left: 20px;
+}
+.container3{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding: 12px;
+    margin-left: 20px;
+}
+h1 {
+  font-family: 'Josefin Sans';
+  font-size: 70px;
+  color: brown
+ }
+
+h2 {
+  font-family: 'Gowun Batang';
+  font-size: 30px;
+  color: indianred
+ }
+
+p {
+  font-family: 'Gowun Batang';
+  font-size: 30px;
+  color: brown
+ }
+
+icons {
+ margin: 1000px;
+ padding-right: 100%;
+ padding-left: 100%;
+}
+
+first-button {
+  color: antiquewhite;
+  background-color: lightcoral;
+  text-align: right;
+}
+
+button {
+  font-family: 'Varela Round';
+  font-size: 22px;
+  border-radius: 10px;
+  border: 2px solid antiquewhite;
+  background-color: indianred;
+  color: antiquewhite;
+  margin: 10px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 7.5%;
+  padding-left: 7.5%;
+}
+
+ .button {
+        background-color: indianred;
+        border: antiquewhite;
+        color: antiquewhite;
+        padding: 20px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+
+			.aaliaPic{
+				display: inline;
+				justify-content: center;
+			}
